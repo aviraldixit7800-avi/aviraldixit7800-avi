@@ -30,7 +30,7 @@
 
 <div align="center">
 
-# 👋 I'M AVIRAL
+# 👋 I'M AVIRAL DIXIT
 
 ### B.Tech AI/ML Student • Full Stack Developer • DSA Learner
 
@@ -79,13 +79,13 @@
 
 ### FULL STACK
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ejs,bootstrap&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,React,bootstrap&theme=dark&perline=6"/>
 
 <br><br>
 
 ### DATABASES • TOOLS
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,hoppscotch,postman&theme=dark&perline=6"/>
 
 <br><br>
 
@@ -105,7 +105,9 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/aviraldixit7800-avi/aviraldixit7800-avi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 </div>
 
