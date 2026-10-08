@@ -133,11 +133,17 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aviraldixit7800-avi&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" height="180"/>
-<img src="https://streak-stats.demolab.com/?user=aviraldixit7800-avi&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aviraldixit7800-avi&show_icons=true&include_all_commits=true&count_private=false&hide_border=false&border_color=8B5CF6&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=FFFFFF&rank_icon=github" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=aviraldixit7800-avi&hide_border=false&background=0D1117&border=8B5CF6&stroke=8B5CF6&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CBD5E1&border_radius=12" height="180"/>
+
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviraldixit7800-avi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviraldixit7800-avi&layout=compact&langs_count=8&hide_border=false&border_color=8B5CF6&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="160"/>
+
 </div>
+
 ---
 
 # 🐍 CONTRIBUTION JOURNEY
