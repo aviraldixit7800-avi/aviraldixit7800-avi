@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **aviraldixit7800@gmail.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** I love building things, breaking them, fixing them, and learning something new every time! 😄
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <!-- Snake Game Repo View -->
 
 <div align="center">
