@@ -1,229 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,20&text=AVIRAL%20DIXIT&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=BUILDING%20%7C%20LEARNING%20%7C%20EVOLVING&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:111827,50:312E81,75:0E7490,100:020617&text=AVIRAL%20DIXIT&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20%7C%20DSA&descAlignY=62&descSize=19&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=B.Tech+%7C+AI%2FML+%7C+Full+Stack+Development;Building+real-world+web+applications;Learning+DSA+%26+problem+solving;Exploring+AI%2FML+%26+backend+systems;Turning+ideas+into+working+software." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=BUILDING+REAL+PROJECTS;LEARNING+DSA+%26+PROBLEM+SOLVING;EXPLORING+AI+%C3%97+WEB;BACKEND+%C3%97+DATABASES;TURNING+IDEAS+INTO+SOFTWARE" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/aviral-d-162b3437a/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/aviraldixit7800-avi">
+<img src="https://img.shields.io/badge/GITHUB-AVIRAL%20DIXIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/aviraldixit7800-avi?tab=followers">
-<img src="https://img.shields.io/github/followers/aviraldixit7800-avi?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+<a href="https://www.linkedin.com/in/aviral-d-162b3437a/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aviraldixit7800@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=aviraldixit7800-avi&label=VISITORS&style=for-the-badge&color=06B6D4"/>
+
 </div>
+
+---
+
+<div align="center">
+
+# 👋 I'M AVIRAL
+
+### B.Tech AI/ML Student • Full Stack Developer • DSA Learner
 
 <br>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-DSA-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORING-AI%2FML-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-0F766E?style=for-the-badge"/>
 
-# 👋 Hey, I'm Aviral
+<br><br>
 
-I'm a **2nd-year B.Tech student in Artificial Intelligence & Machine Learning** from India.
-
-I like building things, figuring out why they break, and then making them better.
-
-Currently focused on:
-
-- 🧩 **DSA & problem solving**
-- 🌐 **Full Stack Development**
-- ⚙️ **Backend & databases**
-- 🤖 **AI / ML**
-- 🚀 **Real-world projects & open source**
-
-<br>
-
-> **"Don't just learn the technology. Build something with it."**
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%" alt="Developer coding"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ CURRENTLY BUILDING
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏨 Hostel Exit Management System
-
-A practical system designed to simplify hostel entry and exit management.
-
-**Features**
-
-🔐 Authentication  
-👥 Role-based dashboards  
-📱 QR-based tracking  
-📊 Analytics  
-🗄️ Database workflows
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 The Next Build
-
-I'm constantly experimenting with ideas around:
-
-**AI × Web × Automation**
-
-The goal isn't to build another tutorial project.
-
-It's to build something **useful enough that someone would actually use it.**
-
-</td>
-
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="520" alt="Coding animation"/>
 
 </div>
 
 ---
 
-# 🧠 MY CURRENT FOCUS
+# ⚡ WHAT I'M BUILDING
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01%20DSA-Problem%20Solving-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02%20WEB-Full%20Stack-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03%20BACKEND-Node%20%26%20Databases-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/04%20AI%2FML-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05%20BUILD-Real%20Projects-DB2777?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:111827,50:312E81,100:0E7490&text=HOSTEL%20EXIT%20MANAGEMENT%20SYSTEM&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🔐%20AUTHENTICATION-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👥%20ROLE%20BASED-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📱%20QR%20TRACKING-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊%20ANALYTICS-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗄️%20DATABASE-0F766E?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🛠️ TECHNOLOGY
+# 🛠️ TECH STACK
 
 <div align="center">
 
-### Languages
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark&perline=6"/>
 
-### Web Development
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ejs,bootstrap"/>
+### FULL STACK
 
-### Databases & Developer Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,ejs,bootstrap&theme=dark&perline=6"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman"/>
+<br><br>
+
+### DATABASES • TOOLS
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&theme=dark&perline=6"/>
+
+<br><br>
 
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-# 📊 GITHUB PERFORMANCE
+# 🚀 CONTRIBUTION JOURNEY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aviraldixit7800-avi&bg_color=020617&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=AVIRAL'S%20CONTRIBUTION%20JOURNEY" width="100%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/aviraldixit7800-avi/aviraldixit7800-avi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 📊 GITHUB STATS
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aviraldixit7800-avi&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=tokyonight" height="175"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraldixit7800-avi&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=aviraldixit7800-avi&theme=tokyonight&hide_border=true" height="175"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviraldixit7800-avi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviraldixit7800-avi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION JOURNEY
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:020617,50:312E81,100:0E7490&text=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20DEBUG%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&fontSize=20&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 
-</div>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aviraldixit7800-avi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-</div>
-
----
-
-# 💡 HOW I LEARN
-
-<div align="center">
-
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-UNDERSTAND
-  ↓
-BUILD BETTER
-  ↓
-REPEAT
-```
-
-</div>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/aviraldixit7800-avi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aviral-d-162b3437a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT%20LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aviraldixit7800@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### 🚀 Still learning. Still building. Still becoming.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=130&section=footer"/>
+### `KEEP BUILDING. KEEP EVOLVING.`
 
 </div>
