@@ -8,8 +8,8 @@
 
 <br><br>
 
-<a href="https://github.com/aviraldixit7800-avi">
-<img src="https://komarev.com/ghpvc/?username=aviraldixit7800-avi&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9"/>
+<a href="https://www.linkedin.com/in/aviral-d-162b3437a/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/aviraldixit7800-avi?tab=followers">
